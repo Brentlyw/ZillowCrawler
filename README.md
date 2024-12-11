@@ -1,7 +1,7 @@
 # ZillowCrawler
 Crawls Zillow, and fuzzy matches keywords to find listings.
 
-Instructions:
+Instructions:  
 1.) Run Prerequisites.bat
 
 2.) Edit keywords to your liking
